@@ -64,18 +64,8 @@ def draw_board(board):
 	
 
 
-board = create_board()
-drop_piece(board,0,2)
-drop_piece(board,1,2)
-print(winning_move(board,2))
-drop_piece(board,3,2)
-drop_piece(board,3,1)
-drop_piece(board,3,1)
-drop_piece(board,3,2)
-drop_piece(board,2,1)
-drop_piece(board,2,2)
-drop_piece(board,2,2)
-drop_piece(board,1,2)
-print(winning_move(board,2))
-
-draw_board(board)
+#board = create_board()
+#drop_piece(board,0,2)
+#drop_piece(board,1,2)
+#print(winning_move(board,2))
+#draw_board(board)
