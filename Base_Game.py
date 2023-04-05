@@ -2,6 +2,8 @@ import numpy as np
 import sys
 import math
 
+#prolly will not use this file, python too slow. I think this can be easily changed to c++.
+
 BLUE = (0,0,255)
 BLACK = (0,0,0)
 RED = (255,0,0)
